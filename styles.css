@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    background-color: black;
+    color: lightgray;
+    box-sizing: border-box;
+    overflow-y: hidden;
+}
+#time {
+    padding: 100px;
+    background-color: rgba(128,128,128,0.1);
+    border-radius: 50px;
+    box-sizing: border-box;
+}
